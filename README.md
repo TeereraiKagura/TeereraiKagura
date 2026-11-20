@@ -11,6 +11,13 @@ bookkeeping and job hunting.
 
 ## Featured projects
 
+### 🤖 Automation
+
+**[Jobsearch-Agent](https://github.com/TeereraiKagura/Jobsearch-Agent)** · TypeScript, Playwright, Vitest, Claude API (optional)
+A scheduled agent that searches LinkedIn, removes duplicate listings, scores each role against a candidate brief
+with a rubric you can audit, and writes ranked reports. Scoring is free and rule-based by default, every link comes
+from a page the agent actually loaded, and coverage limits are reported rather than hidden.
+
 ### 📊 Data and databases
 
 **[prepaid-telco-db](https://github.com/TeereraiKagura/prepaid-telco-db)** · PostgreSQL 16, Flyway, Docker, GitHub Actions
@@ -22,13 +29,6 @@ Balances are enforced by triggers, usage tables are partitioned by month, and th
 A football prediction research platform across 8 leagues, built in eight phases: data ingestion, Dixon–Coles and ML models,
 odds comparison, walk-forward backtesting, risk management, a dashboard and automation.
 It makes no profit claims unless a result is reproducible and comes with a sample size and confidence interval.
-
-### 🤖 Automation
-
-**[Jobsearch-Agent](https://github.com/TeereraiKagura/Jobsearch-Agent)** · TypeScript, Playwright, Vitest, Claude API (optional)
-A scheduled agent that searches LinkedIn, removes duplicate listings, scores each role against a candidate brief
-with a rubric you can audit, and writes ranked reports. Scoring is free and rule-based by default, every link comes
-from a page the agent actually loaded, and coverage limits are reported rather than hidden.
 
 ### 🌐 Full-stack web
 
