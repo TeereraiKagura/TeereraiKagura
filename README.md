@@ -43,7 +43,7 @@ and API tests use `node:test` and supertest.
 |---|---|---|
 | [Club Cubana](https://github.com/TeereraiKagura/clubcubana-) | Nightclub management that replaces the notebook: live net profit (COGS from stock counts), stock alerts and expense tracking | [Live](https://clubcubana.vercel.app) |
 | [Haven & Home Invoice Suite](https://github.com/TeereraiKagura/Haven-and-Home-Invoice-and-Quotation-Suite) | Offline-first quotes and invoices that survive power cuts, with USD/ZiG/ZAR and 15.5% VAT, and print-ready A4 | — |
-| [Oryx Masvingo](https://github.com/TeereraiKagura/oryx-masvingo-app) | Delivery and car-rental operations dashboard on Supabase (PostgreSQL), built for low bandwidth | — |
+| [Oryx Masvingo](https://github.com/TeereraiKagura/oryx-masvingo-app) | Mobile booking page for delivery, freight and car rental. Orders are validated and sent to the business as WhatsApp messages, with no backend needed | — |
 | [Student Record System](https://github.com/TeereraiKagura/student-record-system-Merge-Sort) | Data-structures project applying merge sort to student records, with CRUD and live search | [Live](https://student-record-system-merge-sort.vercel.app) |
 
 ---
